@@ -1,6 +1,7 @@
 # mypemilu
 
-A new Flutter project.
+Crawling data from pemilu2019.kpu.go.id
+Build with Flutter by yusufhnf
 
 ## Getting Started
 
